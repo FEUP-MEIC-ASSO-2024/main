@@ -7,10 +7,15 @@ This is the main repository to be used by all, teachers and teams of students, m
 
  * [T21](https://github.com/FEUP-MEIC-ASSO-2024/T21/assignments/hw01.pdf)
  * [T22](https://github.com/FEUP-MEIC-ASSO-2024/T22/assignments/hw01.pdf)
- * ...
+ * [T23](https://github.com/FEUP-MEIC-ASSO-2024/T23/assignments/hw01.pdf)
+ * [T24](https://github.com/FEUP-MEIC-ASSO-2024/T24/assignments/hw01.pdf)
+ * [T25](https://github.com/FEUP-MEIC-ASSO-2024/T25/assignments/hw01.pdf)
  * [T31](https://github.com/FEUP-MEIC-ASSO-2024/T31/assignments/hw01.pdf)
  * [T32](https://github.com/FEUP-MEIC-ASSO-2024/T32/assignments/hw01.pdf)
- * ...
+ * [T33](https://github.com/FEUP-MEIC-ASSO-2024/T33/assignments/hw01.pdf)
+ * [T34](https://github.com/FEUP-MEIC-ASSO-2024/T34/assignments/hw01.pdf)
+ * [T35](https://github.com/FEUP-MEIC-ASSO-2024/T35/assignments/hw01.pdf)
+ * [T37](https://github.com/FEUP-MEIC-ASSO-2024/T37/assignments/hw01.pdf)
 
 ## Assignment #HW02
 ...
